@@ -69,7 +69,7 @@ cd "c:\study\tech\C_programmes\C++ Class\unitProject"
 ```
 1. Open "Greenhouse Management system\Greenhouse Management system.cbp"
 2. Press F9 (Build & Run)
-3. Simulation starts automatically
+3. Simulation start automatically 
 ```
 
 #### Option B: Using GCC Command Line
