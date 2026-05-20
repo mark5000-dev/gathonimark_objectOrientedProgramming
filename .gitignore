@@ -1,0 +1,9 @@
+bin/
+obj/
+diagrams/
+
+
+*.py
+*.pyc
+*.doc
+*.docx

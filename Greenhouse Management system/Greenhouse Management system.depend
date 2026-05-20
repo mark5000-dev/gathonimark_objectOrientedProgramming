@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1778706185 source:c:\study\tech\c_programmes\c++ class\unitproject\greenhouse management system\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+	"greenhouse.h"
+	"sensor.h"
+	"actuator.h"
+	"plant.h"
+
+1778679914 c:\study\tech\c_programmes\c++ class\unitproject\greenhouse management system\greenhouse.h
+	<vector>
+	<map>
+	<queue>
+	<iostream>
+	"sensor.h"
+	"actuator.h"
+	"plant.h"
+	"logger.h"
+
+1778679914 c:\study\tech\c_programmes\c++ class\unitproject\greenhouse management system\sensor.h
+	<string>
+	<ctime>
+	<cstdlib>
+
+1778679914 c:\study\tech\c_programmes\c++ class\unitproject\greenhouse management system\actuator.h
+	<string>
+	<iostream>
+
+1778679914 c:\study\tech\c_programmes\c++ class\unitproject\greenhouse management system\plant.h
+	<string>
+
+1778705922 c:\study\tech\c_programmes\c++ class\unitproject\greenhouse management system\logger.h
+	<fstream>
+	<string>
+	<sstream>
+	<ctime>
+	<vector>
+	"sensor.h"
+	"actuator.h"
+	"plant.h"
+
+1778679914 source:c:\study\tech\c_programmes\c++ class\unitproject\greenhouse management system\greenhouse.cpp
+	"greenhouse.h"
+	<iostream>
+	<iomanip>
+
+1778681113 source:c:\study\tech\c_programmes\c++ class\unitproject\greenhouse management system\actuator.cpp
+	"actuator.h"
+
+1778705922 source:c:\study\tech\c_programmes\c++ class\unitproject\greenhouse management system\logger.cpp
+	"logger.h"
+	<iostream>
+	<iomanip>
+	"plant.h"
+	"actuator.h"
+
+1778679914 source:c:\study\tech\c_programmes\c++ class\unitproject\greenhouse management system\plant.cpp
+	"plant.h"
+
+1778679914 source:c:\study\tech\c_programmes\c++ class\unitproject\greenhouse management system\sensor.cpp
+	"sensor.h"
+

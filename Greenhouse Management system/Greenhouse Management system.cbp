@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Greenhouse Management system" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Greenhouse Management system" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Greenhouse Management system" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Greenhouse Management system.cbp" />
+		<Unit filename="actuator.cpp" />
+		<Unit filename="actuator.h" />
+		<Unit filename="actuator_events.csv" />
+		<Unit filename="alerts.csv" />
+		<Unit filename="greenhouse.cpp" />
+		<Unit filename="greenhouse.h" />
+		<Unit filename="logger.cpp" />
+		<Unit filename="logger.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="plant.cpp" />
+		<Unit filename="plant.h" />
+		<Unit filename="plant_profiles.csv" />
+		<Unit filename="plant_status.csv" />
+		<Unit filename="sensor.cpp" />
+		<Unit filename="sensor.h" />
+		<Unit filename="sensor_readings.csv" />
+		<Unit filename="system_config.csv" />
+		<Unit filename="water_usage.csv" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

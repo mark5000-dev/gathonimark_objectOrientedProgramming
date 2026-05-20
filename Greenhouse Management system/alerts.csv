@@ -1,0 +1,10 @@
+Timestamp|Severity|Message
+2026-05-14|00:06:32|INFO|Water pump activated - low soil moisture
+2026-05-14|00:06:32|WARNING|Plant TOMATO_001 is unhealthy - check conditions
+2026-05-14|00:06:49|INFO|Water pump activated - low soil moisture
+2026-05-14|00:06:49|WARNING|Plant TOMATO_001 is unhealthy - check conditions
+2026-05-14|00:06:55|INFO|Water pump deactivated
+2026-05-14|00:07:02|INFO|Water pump activated - low soil moisture
+2026-05-14|00:07:02|WARNING|Plant TOMATO_001 is unhealthy - check conditions
+2026-05-14|00:07:03|INFO|Water pump activated - low soil moisture
+2026-05-14|00:07:03|WARNING|Plant TOMATO_001 is unhealthy - check conditions

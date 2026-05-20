@@ -1,0 +1,11 @@
+ConfigKey|ConfigValue|Description|Unit
+GREENHOUSE_ID|GREENHOUSE_001|Unique greenhouse identifier|String
+MOISTURE_THRESHOLD|40.0|Minimum soil moisture before watering|Percentage
+TEMP_MAX_THRESHOLD|28.0|Maximum temperature before cooling|Celsius
+TEMP_MIN_THRESHOLD|15.0|Minimum temperature before heating|Celsius
+LIGHT_THRESHOLD|3000.0|Minimum light level before grow lights activate|Lux
+WATER_TANK_CAPACITY|1000.0|Total water tank capacity|Liters
+WATER_TANK_MIN_LEVEL|50.0|Minimum water level to enable irrigation|Liters
+SIMULATION_INTERVAL|60|Time between simulation cycles|Seconds
+LOG_DATA|true|Enable data logging to CSV files|Boolean
+AUTO_CONTROL|true|Enable automatic actuator control|Boolean
